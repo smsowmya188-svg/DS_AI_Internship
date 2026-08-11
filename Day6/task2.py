@@ -1,0 +1,22 @@
+import numpy as np
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+print("Matrix A:")
+print(A)
+print("\nMatrix B:")
+print(B)
+matrix_result = np.dot(A, B)
+print("\nMatrix multiplication (np.dot):")
+print(matrix_result)
+element_result = A * B
+print("\nElement-wise multiplication (*):")
+print(element_result)
+print("\nShape of A:", A.shape)
+print("Shape of B:", B.shape)
+print("Shape of matrix multiplication result:", matrix_result.shape)
+print("Shape of element-wise result:", element_result.shape)
+
+swapped_result = np.dot(B, A)
+print("\nAfter swapping A and B:")
+print("B × A =")
+print(swapped_result)

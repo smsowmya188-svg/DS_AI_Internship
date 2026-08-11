@@ -1,0 +1,13 @@
+import numpy as np
+marks=np.array([[60,70,80],[70,80,90],[70,80,90]])
+print(marks)
+print("Mean:",np.mean(marks))
+print("Shape:",marks.shape)
+result=np.mean(marks,axis=1)
+print("Column-wise means:",result)
+print("Shape:",result.shape)
+print("Median is:",np.median(marks))
+result=np.median(marks,axis=0)
+print("Column-wise medians:",result)
+print("Standard deviation is:",np.std(marks))
+print("Variance is:",np.var(marks))
