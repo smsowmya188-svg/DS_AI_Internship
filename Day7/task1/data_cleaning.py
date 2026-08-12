@@ -42,13 +42,14 @@ df["Age"] = df["Age"].fillna(df["Age"].mean())
 df["Marks"] = df["Marks"].fillna(df["Marks"].mean())
 
 # Fill missing Attendance with mean
-df["Attendance"] = df["Attendance"].fillna(
-    df["Attendance"].mean()
-)
+df["Attendance"] = df["Attendance"].fillna(df["Attendance"].mean())
 
 # 10. Check missing values after cleaning
 print("\n========== MISSING VALUES AFTER CLEANING ==========")
 print(df.isnull().sum())
+
+df["Marks"] = df["Marks"].fillna(df["Marks"].mean()).astype(int)
+df["Age"] = df["Age"].fillna(df["Age"].mean()).astype(int)
 
 # 11. Find shape of cleaned dataset
 print("\n========== CLEANED DATASET SHAPE ==========")
