@@ -1,0 +1,17 @@
+StudentID,Name,Age,Department,Marks,Attendance,Grade
+101,Amit,20,ISE,85,92,A
+102,Sara,21,CSE,78,88,B
+103,John,,ISE,92,95,A
+104,Priya,20,CSE,65,80,B
+105,David,22,ISE,,90,B
+106,Meena,21,CSE,88,94,A
+107,Ali,20,ISE,72,85,B
+108,Riya,22,CSE,95,98,A
+109,Kiran,,ISE,61,78,C
+110,Anu,21,CSE,84,91,A
+111,Rahul,20,ISE,55,,C
+112,Neha,22,CSE,76,87,B
+113,Arjun,21,ISE,89,93,A
+114,Divya,20,CSE,,82,B
+115,Vijay,22,ISE,68,79,C
+115,Vijay,22,ISE,68,79,C
