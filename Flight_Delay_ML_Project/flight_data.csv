@@ -1,0 +1,31 @@
+airline,origin,destination,distance,departure_hour,weather,previous_delay,delay
+Air India,Bangalore,Delhi,1750,6,Clear,5,0
+IndiGo,Bangalore,Mumbai,845,8,Clear,2,0
+Vistara,Delhi,Mumbai,1150,18,Rain,35,1
+Air India,Mumbai,Delhi,1150,20,Rain,45,1
+IndiGo,Chennai,Bangalore,350,7,Clear,0,0
+SpiceJet,Bangalore,Kolkata,1560,19,Storm,55,1
+Air India,Delhi,Bangalore,1750,21,Rain,40,1
+IndiGo,Mumbai,Goa,430,10,Clear,3,0
+Vistara,Bangalore,Delhi,1750,17,Rain,30,1
+Air India,Chennai,Delhi,1760,14,Clear,10,0
+IndiGo,Delhi,Kolkata,1300,9,Clear,4,0
+SpiceJet,Mumbai,Delhi,1150,22,Storm,65,1
+Air India,Bangalore,Hyderabad,500,11,Clear,5,0
+Vistara,Delhi,Bangalore,1750,18,Rain,38,1
+IndiGo,Hyderabad,Bangalore,500,8,Clear,2,0
+SpiceJet,Chennai,Mumbai,1030,20,Rain,50,1
+Air India,Kolkata,Delhi,1300,16,Clear,12,0
+IndiGo,Bangalore,Chennai,350,7,Clear,1,0
+Vistara,Mumbai,Bangalore,845,19,Rain,32,1
+SpiceJet,Delhi,Mumbai,1150,21,Storm,70,1
+Air India,Goa,Mumbai,430,13,Clear,5,0
+IndiGo,Bangalore,Pune,735,10,Clear,4,0
+Vistara,Delhi,Chennai,1760,18,Rain,42,1
+SpiceJet,Kolkata,Delhi,1300,20,Storm,60,1
+Air India,Mumbai,Goa,430,9,Clear,3,0
+IndiGo,Chennai,Hyderabad,520,12,Clear,6,0
+Vistara,Bangalore,Mumbai,845,17,Rain,29,1
+SpiceJet,Delhi,Kolkata,1300,22,Storm,68,1
+Air India,Hyderabad,Delhi,1580,15,Clear,8,0
+IndiGo,Mumbai,Bangalore,845,8,Clear,2,0
